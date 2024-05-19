@@ -1,14 +1,12 @@
-## OneDSix
+## OneDSix: A Data-Gen based RPG Game/Engine
+<a href="https://github.com/OneDSix/onedsix/actions/workflows/gradle.yml"><img alt="Desktop/Server CI" src="https://img.shields.io/github/actions/workflow/status/onedsix/onedsix/gradle.yml?label=Core%201D6"></a>
+<a href="https://github.com/OneDSix/basemod/actions/workflows/gradle.yml"><img alt="Desktop/Server CI" src="https://img.shields.io/github/actions/workflow/status/onedsix/basemod/gradle.yml?label=Basemod"></a>
+<a href="https://github.com/OneDSix/MiniSponge/actions/workflows/gradle.yml"><img alt="Desktop/Server CI" src="https://img.shields.io/github/actions/workflow/status/onedsix/minisponge/gradle.yml?label=MiniSponge"></a>
 
-todo
-:)
-<!--
+<a href="https://discord.gg/aNjm3b6eYJ"><img alt="Discord Link" src="https://img.shields.io/discord/969376256640569474?logo=discord&label=1D6%20Discord%20Server"></a>
 
-**Here are some ideas to get you started:**
+1D6 was born out of a passion of two things; **RPG games** and **Modding**.\
+This project is an experiment on how far people can take a nearly blank slate of a game and make it their own, free from ARR licensing, proprietary software, and corporate mismanagement.\
+1D6 is primarily made up of Minecraft modders and RPG/DnD enthusiasts, so if you fall into one, or both, of these groups, you'll feel right at home.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<!-- More info about 1D6 is avalible on [our website]() -->
