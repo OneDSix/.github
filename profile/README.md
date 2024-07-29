@@ -3,7 +3,6 @@
 <a href="https://github.com/OneDSix/basemod/actions/workflows/gradle.yml"><img alt="Desktop/Server CI" src="https://img.shields.io/github/actions/workflow/status/onedsix/basemod/gradle.yml?label=Basemod"></a>
 <a href="https://github.com/OneDSix/MiniSponge/actions/workflows/gradle.yml"><img alt="Desktop/Server CI" src="https://img.shields.io/github/actions/workflow/status/onedsix/minisponge/gradle.yml?label=MiniSponge"></a>
 
-<a href="https://discord.gg/aNjm3b6eYJ"><img alt="Old Discord Link" src="https://img.shields.io/discord/969376256640569474?logo=discord&label=Discord (legacy)"></a>
 <a href="https://discord.gg/5BhZKVn8bs"><img alt="Discord Link" src="https://img.shields.io/discord/1267473803357982801?logo=discord&label=Discord"></a>
 <a href="https://matrix.to/#/!QlLHLtAHIewcitWaxW:matrix.org?via=matrix.org"><img alt="Matrix Room Link" src="https://img.shields.io/matrix/1d6%3Amatrix.org?logo=matrix&label=Matrix"></a>
 
